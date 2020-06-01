@@ -13,7 +13,7 @@ chrome_driver_path = os.path.join(
     "chromedriver83"
 )
 handler = ChromeHandler(
-    chrome_driver_path=chrome_driver_path, is_browser=True
+    chrome_driver_path=chrome_driver_path, is_browser=False
 )
 
 # scraping config
