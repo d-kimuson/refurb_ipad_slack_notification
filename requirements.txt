@@ -7,7 +7,7 @@ autopep8==1.5.3
 beautifulsoup4==4.9.1
 black==19.10b0
 chardet==3.0.4
-chrome-handler @ git+https://github.com/kaito1002/chrome_handler@107b54730b649a312b648572ee80eefd2a5919fd
+chrome-handler @ git+https://github.com/kaito1002/chrome_handler@d9ec0229a57e370e05cd2eef51c2dc18abf5c463
 click==7.1.2
 flake8==3.8.2
 idna==2.9
